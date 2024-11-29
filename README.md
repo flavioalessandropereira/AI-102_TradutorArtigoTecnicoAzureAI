@@ -1,6 +1,7 @@
 # 🚀 Bootcamp Microsoft Azure AI-102: Tradutor de Artigos Técnicos com AzureAI
 
 O bootcamp Azure AI-102 ensina a usar o Azure Translator API 🌐 para traduzir artigos técnicos, mantendo precisão e contexto. Aprenda a integrar e personalizar traduções em tempo real 🔧🚀.
+
 ---
 
 ## 📖 Criando a Camada de Tradução
